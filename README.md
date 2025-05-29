@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @bupttaxi.
 - 👋 Xin Tang heter jag
-- 👀 I’m interested in CS and mathematics and data science.
-- 🌱 I’m currently learning github...
+- 👀 I’m interested in CS and mathematics and AI TECh.
+- 🌱 I’m currently studying Machine Learning MSc at KTH Sweden.
 
 
